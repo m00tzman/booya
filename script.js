@@ -18,5 +18,8 @@ function whatYear(){
 		else if (yearNum == 4){
 			year = "senior"
 		}
-	alert (gender + " is a " + year);
+		else if (yearNum > 4){
+			alert
+		}
+	alert(gender + " is a " + year);
 }
